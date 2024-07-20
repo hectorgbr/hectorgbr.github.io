@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Main_Project_Three.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|solutionrelative:Main_Project_Three.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|solutionrelative:Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|solutionrelative:Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\sqlite\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|solutionrelative:sqlite\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356BC72E-E3CE-4467-A445-343EBC72BD5E}|7_3 _Project_Three_Hector_Banos_Ramos.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sqlite3.c",
+              "DocumentMoniker": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\sqlite\\sqlite3.c",
+              "RelativeDocumentMoniker": "sqlite\\sqlite3.c",
+              "ToolTip": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\sqlite\\sqlite3.c",
+              "RelativeToolTip": "sqlite\\sqlite3.c",
+              "ViewState": "AQIAAGFpAQAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T05:09:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Project_Three.cpp",
+              "DocumentMoniker": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Main_Project_Three.cpp",
+              "RelativeDocumentMoniker": "Main_Project_Three.cpp",
+              "ToolTip": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Main_Project_Three.cpp",
+              "RelativeToolTip": "Main_Project_Three.cpp",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAH8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-06T22:22:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.h",
+              "DocumentMoniker": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Database.h",
+              "RelativeDocumentMoniker": "Database.h",
+              "ToolTip": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Database.h",
+              "RelativeToolTip": "Database.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-19T01:01:11.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-19T01:03:44.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Database.cpp",
+              "RelativeDocumentMoniker": "Database.cpp",
+              "ToolTip": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\Database.cpp",
+              "RelativeToolTip": "Database.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T01:02:36.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "C:\\Users\\unity\\Desktop\\CS 499\\WEEK 3\\ENHANCEMENT 1\\CS_499_Project_Software Design and Engineering_Hector_Banos_Ramos\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T01:04:22.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
