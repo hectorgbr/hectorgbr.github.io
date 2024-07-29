@@ -95,25 +95,31 @@ bool Database::searchItem(const std::string& username, const std::string& item) 
     return false;
 }
 
+
 // The getItems method retrieves all items and their counts for the user efficiently.
 // It uses SQL's GROUP BY and COUNT functions to aggregate the data in a single query.
-std::vector<std::pair<std::string, int>> Database::getItems(const std::string& username) {
+// The resulting data is stored in an std::unordered_map that I implemented to allow
+// fast access and manipulation of item counts in-memory.
+std::unordered_map<std::string, int> Database::getItems(const std::string& username) {
     // Create the SQL query to get items and their counts grouped by item name
     std::string sql = "SELECT item, COUNT(item) FROM items WHERE username = '" + username + "' GROUP BY item;";
     sqlite3_stmt* stmt;
-    std::vector<std::pair<std::string, int>> items;
+    std::unordered_map<std::string, int> items;
+
     // Prepare the SQL statement
     if (sqlite3_prepare_v2(db, sql.c_str(), -1, &stmt, nullptr) != SQLITE_OK) {
         // If there's an error, print it and return an empty vector
         std::cerr << "Failed to prepare statement: " << sqlite3_errmsg(db) << std::endl;
         return items;
     }
+
     // Loop through the results and add them to the vector
     while (sqlite3_step(stmt) == SQLITE_ROW) {
         std::string item = reinterpret_cast<const char*>(sqlite3_column_text(stmt, 0));
         int count = sqlite3_column_int(stmt, 1);
-        items.emplace_back(item, count);
+        items[item] = count;
     }
+
     sqlite3_finalize(stmt);
     return items;
 }

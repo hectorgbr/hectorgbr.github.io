@@ -6,9 +6,10 @@
  */
 
 // Update: Enhancement Two: Algorithms and Data Structure
-// This requiriment is met by using efficient SQL queries and structures to manage user sessions
-// and item data. The use of SQL's GROUP BY and COUNT functions ensures optimized data retrieval
-// and aggregation, eliminating redundancy and enhancing performance.
+// This requirement is met by using efficient data structures such as std::unordered_map
+// for in-memory item tracking.Additionally, SQL's GROUP BY and COUNT functions are used
+// for optimized data retrieval and aggregation from the database, eliminating redundancy
+// and enhancing performance.
 
 // Main_Project_Three.cpp
 #include <iostream>
@@ -164,6 +165,7 @@ int main() {
             else if (userChoiceVar == 2) {
                 // Display all item frequencies
                 auto items = db.getItems(currentUser.getUsername());
+                // items is an std::unordered_map<std::string, int>.
                 for (const auto& item : items) {
                     cout << item.first << ": " << item.second << endl;
                 }
