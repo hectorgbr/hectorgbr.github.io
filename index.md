@@ -13,3 +13,6 @@ Code Review of the planned enhancements: [Initial Code Review](https://youtu.be/
 
 # Category One: Software Design and Engineering
 [Enhancement One](https://github.com/hectorgbr/hectorgbr.github.io)
+
+# Category Two: Algorithms and Data Structure
+[Enhancement Two](https://github.com/hectorgbr/hectorgbr.github.io)
