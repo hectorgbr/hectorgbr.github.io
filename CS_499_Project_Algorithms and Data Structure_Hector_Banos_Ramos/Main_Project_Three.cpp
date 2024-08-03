@@ -2,12 +2,18 @@
  * Corner Grocer App
  * Date: 07/28/2024
  * Author: Hector Banos Ramos
- * This is the enhanced version of the item-tracking program for the Corner Grocer
+ * This is the enhanced version of the item-tracking program for Corner Grocer
  */
+
+// Update: Enhancement One: Software design and engineering
+// To meet this requirement I added options to create user accounts with username and password.
+// I implemented login and logout functionality. I integrated a database to store user accounts
+// and items. I implemented CRUD operations for managing list items. I added two menus one to
+// manage user accounts and the other is for options once the user gains access to his account.
 
 // Update: Enhancement Two: Algorithms and Data Structure
 // This requirement is met by using efficient data structures such as std::unordered_map
-// for in-memory item tracking.Additionally, SQL's GROUP BY and COUNT functions are used
+// for in-memory item tracking. Additionally, SQL's GROUP BY and COUNT functions are used
 // for optimized data retrieval and aggregation from the database, eliminating redundancy
 // and enhancing performance.
 
