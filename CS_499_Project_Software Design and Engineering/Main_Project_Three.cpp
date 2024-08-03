@@ -4,8 +4,13 @@
  * Author: Hector Banos Ramos
  * This is the enhanced version of the item-tracking program for the Corner Grocer
  */
+// Update: Enhancement One: Software design and engineering
+// To meet this requirement I added options to create user accounts with username and password.
+// I implemented login and logout functionality. I integrated a database to store user accounts
+// and items. I implemented CRUD operations for managing list items. I added two menus one to
+// manage user accounts and the other is for options once the user gains access to his account.
 
- // Main_Project_Three.cpp
+// Main_Project_Three.cpp
 #include <iostream>
 #include <iomanip>
 #include <limits>
