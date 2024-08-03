@@ -1,8 +1,5 @@
 #pragma once
 // Database.h
-// I used efficient data structures for managing user sessions. The Database class uses a
-// map-like structure in SQL to handle user sessions and item tracking efficiently.
-
 // I used efficient data structures for managing user sessions and item tracking.
 // The Database class uses an std::unordered_map to handle item counts in-memory,
 // providing average constant-time complexity for operations such as insertion, lookup,
