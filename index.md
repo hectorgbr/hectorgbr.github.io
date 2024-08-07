@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My ePortfolio
+title: My ePortfolio - Hector Banos
 ---
 
 # Hello! Here I will show my enhanced project for the CS 499 course.
@@ -12,11 +12,20 @@ Check out my CS 210 project repository: [CS-210-Programming-Languages](https://g
 Code Review of the planned enhancements: [Initial Code Review](https://youtu.be/s5OdsxbZuW4)
 
 # Category One: Software Design and Engineering
+
+[Narrative One](https://github.com/hectorgbr/hectorgbr.github.io/tree/main/Narratives)
+
 [Enhancement One](https://github.com/hectorgbr/hectorgbr.github.io)
 
 # Category Two: Algorithms and Data Structure
+
+[Narrative Two](https://github.com/hectorgbr/hectorgbr.github.io/tree/main/Narratives)
+
 [Enhancement Two](https://github.com/hectorgbr/hectorgbr.github.io)
 
 # Category Three: Databases
+
+[Narrative Three](https://github.com/hectorgbr/hectorgbr.github.io/tree/main/Narratives)
+
 [Enhancement Three](https://github.com/hectorgbr/hectorgbr.github.io)
 
