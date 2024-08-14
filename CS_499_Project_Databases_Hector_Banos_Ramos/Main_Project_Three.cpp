@@ -23,7 +23,7 @@
 // and delete user accounts. I also allow users to read a text file with items, add an item
 // manually, search for a specific item, and delete items.
 
-// Main_Project_Three.cpp
+// Main_Project_CS-499.cpp
 #include <iostream>
 #include <iomanip>
 #include <limits>
@@ -143,6 +143,8 @@ int main() {
 
     while (true) {
         // Display account management options
+        cout << endl;
+        cout << "Corner Grocer App" << endl;
         cout << "1. Create account" << endl;
         cout << "2. Login" << endl;
         cout << "3. Delete account" << endl; // I added this new option to delete account
