@@ -10,7 +10,7 @@
 // and items. I implemented CRUD operations for managing list items. I added two menus one to
 // manage user accounts and the other is for options once the user gains access to his account.
 
-// Main_Project_Three.cpp
+// Main_Project_CS-499.cpp
 #include <iostream>
 #include <iomanip>
 #include <limits>
