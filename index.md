@@ -2,16 +2,12 @@
 layout: default
 title: My ePortfolio - Hector Banos
 ## Southern New Hampshire University
-### SNHU CS499 - Computer Science Capstone
+## SNHU CS499 - Computer Science Capstone
 ---
 
 # Introduction
 
 Hello, my name is Hector Banos Ramos; after obtaining my associate's degree in computer information systems, I enrolled at Southern New Hampshire University (SNHU) and started the computer science program in August 2023. This ePortfolio serves as a demonstration of my knowledge and skills in relevant areas of the computer science field such as Software Design and Engineering, Algorithms and Data Structures, and Databases, and I also meet other outcomes of my computer science capstone course. Additionally, when creating this website with GitHub pages, I considered that the design, development, and delivery of my oral, written, and visual communication products had professional quality and that they were coherent, technically sound, and that they were appropriately adapted to a specific audience and context.
-
-Original CS-210 project repository: [CS-210-Programming-Languages](https://github.com/hectorgbr/CS-210-Programming-Languages)
-
-Code Review of the planned enhancements: [Code Review Video](https://youtu.be/s5OdsxbZuW4)
 
 # Professional Self-Assessment
 
@@ -32,6 +28,10 @@ In the algorithms and data structures category, I integrated efficient data stru
 
 For the databases category, I added a database integration feature that allows the saving and retrieving of list items and user data. This enhancement showcases my skills in database management and CRUD operations, ensuring data persistence and security within the application.
 By choosing the "Corner Grocer" project as the main artifact for my capstone project, I have demonstrated my ability to design and evaluate computing solutions that solve given problems using algorithmic principles and computer science practices. Furthermore, the enhancements to this project illustrate my proficiency in creating solid, efficient, and secure software solutions.
+
+Original CS-210 project repository: [CS-210-Programming-Languages](https://github.com/hectorgbr/CS-210-Programming-Languages)
+
+Code Review of the planned enhancements: [Code Review Video](https://youtu.be/s5OdsxbZuW4)
 
 # Category One: Software Design and Engineering
 
